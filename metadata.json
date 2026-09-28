@@ -1,0 +1,11 @@
+{
+  "name": "Remix SyncFlow AI - Collaborative To-Do \u0026 Creative Media Studio",
+  "description": "Real-time collaborative to-do application powered by Firebase, featuring AI smart scheduling, voice-to-video task synthesis, music composition, and Canva-style media editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
